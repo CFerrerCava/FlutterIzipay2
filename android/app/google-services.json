@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869112325903",
+    "project_id": "notify-fae60",
+    "storage_bucket": "notify-fae60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869112325903:android:2189841b411bf45d8ec07a",
+        "android_client_info": {
+          "package_name": "com.example.notify_with_google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869112325903-09s7huo4enpr50havp7vvpdo6baelneg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMzEfuZ7IAb0W6-wlI7PqSXYGonqxHkWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869112325903-09s7huo4enpr50havp7vvpdo6baelneg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
